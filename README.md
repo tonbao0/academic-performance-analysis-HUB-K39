@@ -1,24 +1,9 @@
-# Ph-n-t-ch-t-ng-quan-t-nh-h-nh-h-c-t-p-khoa-DBS-HUB-K39
-## Insight 1 — Học lệch Tech/Biz
+## Insight
 
-
-<img width="1919" height="1079" alt="image" src="https://github.com/user-attachments/assets/32c57d94-4c1e-405a-b091-08870ba07316" />
-
-
----
-
-## Insight 2 — Các môn phân hóa ổn định
-
-![Insight 2 - Phân hóa ổn định](./Screenshot_2026-06-02_073031.png)
-
----
-
-## Insight 3 — Phân bổ lớp tự chọn chưa đồng đều
-
-![Insight 3 - Phân bổ lớp tự chọn](./Screenshot_2026-06-02_073056.png)
+<img width="1914" height="1039" alt="image" src="https://github.com/user-attachments/assets/d55eb6ca-f468-4492-a050-422854dbfe8e" />
 
 ---
 
 ## Giải pháp tổng thể
 
-![Giải pháp tổng thể](./Screenshot_2026-06-02_073113.png)
+<img width="1919" height="1045" alt="image" src="https://github.com/user-attachments/assets/0276f729-d256-4ddc-8a23-5c7e5a609e35" />
