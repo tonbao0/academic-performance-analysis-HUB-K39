@@ -1,7 +1,8 @@
 # Ph-n-t-ch-t-ng-quan-t-nh-h-nh-h-c-t-p-khoa-DBS-HUB-K39
 ## Insight 1 — Học lệch Tech/Biz
 
-![Insight 1 - Học lệch Tech/Biz](./Screenshot_2026-06-02_073008.png)
+![Insight 1 - Học lệch Tech/Biz]
+![Mô tả ảnh thay thế]("C:\Users\PC\Downloads\Screenshot 2026-06-02 073113.png")
 
 ---
 
