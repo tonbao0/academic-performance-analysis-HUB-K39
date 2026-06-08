@@ -1,9 +1,12 @@
 ## Insight
 
-<img width="1914" height="1039" alt="image" src="https://github.com/user-attachments/assets/d55eb6ca-f468-4492-a050-422854dbfe8e" />
+<img width="1920" height="1043" alt="image" src="https://github.com/user-attachments/assets/f779d6d7-a1ca-41c4-a5c6-dcd227fc5de4" />
+
 
 ---
 
 ## Giải pháp tổng thể
 
-<img width="1919" height="1045" alt="image" src="https://github.com/user-attachments/assets/0276f729-d256-4ddc-8a23-5c7e5a609e35" />
+<img width="1920" height="1043" alt="image" src="https://github.com/user-attachments/assets/6cbc037c-8fbb-42e7-8239-3f09ce6a8969" />
+
+
